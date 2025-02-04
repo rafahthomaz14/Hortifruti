@@ -1,6 +1,6 @@
 <h3>Hortifruti !</h3>
 
-Projeto fictício para um hortifruti, desencvolvido em HTML, CSS e JavaScript.
+Projeto fictício para um hortifruti, desencvolvido em HTML e CSS .
 
 <div>
   <img src="./img/foto2.png">
